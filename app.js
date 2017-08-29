@@ -185,7 +185,7 @@ var q10 = {
 				  'C. Los Angles, California',
 				  'D. Phoneix, Arizona'],
 	flags : [false, true, false, false],
-	answer : 'B. Designing US Army & US Navy insignia'
+	answer : 'B. Lubbock, Texas'
 }
 
 var questionArray = [q1, q2, q3, q4, q5, q6, q7, q8, q9, q10];
